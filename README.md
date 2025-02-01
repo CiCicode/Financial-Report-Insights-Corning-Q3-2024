@@ -16,7 +16,7 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 
 
 ### Key Insights for Price Strategy
-- Corning's **strong Optical Communications growth** comes from strategic market positioning.
+- Corning's strong Optical Communications growth comes from **strategic market positioning**, emphasizing pricing strategies to capture strong demand and sustain revenue growth.
 - Future focus should be on **high-growth markets** to sustain revenue momentum.
 
 ---
@@ -28,25 +28,23 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/bcd96726-d70d-4e6d-9466-4af870f9ed6d" />
 
 
-<img width="666" alt="image" src="https://github.com/user-attachments/assets/8263231a-7aef-43fc-84bf-7c9b4182a93a" />
-
-
 ### Key Insights for Price Strategy
-- **Cost management is crucial** to counteract currency fluctuations.
-- Display Technologies requires operational adjustments to maintain stable profit margins.
+- Cost management is crucial to counteract currency fluctuations.
+- Managing production efficiency and resource allocation will be key to sustaining profitability.
 
 ---
 
 ## Springboard Plan & Long-Term Growth
 - **Springboard Plan:** Targeting **$3B annual revenue growth** and stable core operating profit by 2026.
+- **Display Technologies:** Price adjustments helped, but Japanese yen depreciation posed challenges.
 - Growth strategy: **Market expansion + Cost efficiency.**
 
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/239ac782-143a-4f54-93b9-55c24c37f523" />
 
 
 ### Key Insights for Price Strategy
-- **Long-term strategies** must address material cost increases and currency volatility.
-- **Efficient resource allocation** will enhance margins and meet Springboard Plan objectives.
+- Long-term strategies must address material cost increases, pricing adjustments, and currency volatility.
+- Efficient resource allocation and pricing flexibility will enhance margins and meet Springboard Plan objectives.
 
 ---
 
