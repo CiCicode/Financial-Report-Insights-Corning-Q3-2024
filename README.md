@@ -35,7 +35,6 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 
 ## Springboard Plan & Long-Term Growth
 - **Springboard Plan:** Targeting **$3B annual revenue growth** and stable core operating profit by 2026.
-- **Display Technologies:** Price adjustments helped, but Japanese yen depreciation posed challenges.
 - Growth strategy: **Market expansion + Cost efficiency.**
 
 <img width="675" alt="image" src="https://github.com/user-attachments/assets/239ac782-143a-4f54-93b9-55c24c37f523" />
