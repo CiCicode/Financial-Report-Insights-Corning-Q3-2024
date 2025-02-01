@@ -12,6 +12,7 @@ This report provides key insights from Corning's Q3 2024 financial statements, f
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/c7d678b1-55c1-41a8-939b-e36773910d9c" />
 
+
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/bda72acc-f85a-48ee-94db-020174204879" />
 
 ### Key Insights
