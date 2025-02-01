@@ -13,7 +13,8 @@ This report provides key insights from Corning's Q3 2024 financial statements, f
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/c7d678b1-55c1-41a8-939b-e36773910d9c" />
 
 
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/bda72acc-f85a-48ee-94db-020174204879" />
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/498a301a-d737-4c61-bb20-2bc83f20d015" />
+
 
 ### Key Insights
 - Corning's **strong Optical Communications growth** comes from strategic market positioning.
@@ -25,6 +26,11 @@ This report provides key insights from Corning's Q3 2024 financial statements, f
 ### Financial Data
 - **Gross Margin:** Increased to **34%** (+2 percentage points YoY)
 - **Display Technologies:** Price adjustments helped, but Japanese yen depreciation posed challenges.
+
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/bcd96726-d70d-4e6d-9466-4af870f9ed6d" />
+
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/8263231a-7aef-43fc-84bf-7c9b4182a93a" />
+
 
 ### Key Insights
 - **Cost management is crucial** to counteract currency fluctuations.
