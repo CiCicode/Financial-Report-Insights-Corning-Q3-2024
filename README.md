@@ -1,7 +1,7 @@
 # Corning Q3 2024 Financial Report Insights
 
 ## Overview
-This report provides key insights from Corning's Q3 2024 financial statements, focusing on revenue growth, gross margin management, long-term business strategy, product performance, and foreign exchange impacts.
+This report provides key insights for price strategy from Corning's Q3 2024 financial statements, focusing on revenue growth, gross margin management, long-term business strategy, product performance, and foreign exchange impacts.
 
 ---
 
