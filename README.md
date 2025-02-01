@@ -23,7 +23,7 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 
 ## Gross Margin Management
 - **Gross Margin:** Increased to **34%** (+2 percentage points YoY)
-- Display Technologies: Price adjustments helped improve profitability despite currency challenges.
+- Display Technologies: Price adjustments helped improve profitability despite currency challenges. The Display Technologies segment is closely linked to Japanese display manufacturers, making it more sensitive to fluctuations in the Japanese yen.
 
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/bcd96726-d70d-4e6d-9466-4af870f9ed6d" />
 
@@ -32,7 +32,7 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 
 
 ### Key Insights for Price Strategy
-- Price and Cost management is crucial, especially in the Display Technologies sector.
+- Price management is crucial, especially in the Display Technologies sector.
 - Cost management is crucial to counteract currency fluctuations.
 
 ---
