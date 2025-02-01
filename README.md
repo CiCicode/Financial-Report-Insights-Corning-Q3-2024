@@ -23,7 +23,6 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 
 ## Gross Margin Management
 - **Gross Margin:** Increased to **34%** (+2 percentage points YoY)
-- **Display Technologies:** Price adjustments helped, but Japanese yen depreciation posed challenges.
 
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/bcd96726-d70d-4e6d-9466-4af870f9ed6d" />
 
