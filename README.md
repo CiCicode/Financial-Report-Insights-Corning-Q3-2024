@@ -23,7 +23,7 @@ This report provides key insights for price strategy from Corning's Q3 2024 fina
 
 ## Gross Margin Management
 - **Gross Margin:** Increased to **34%** (+2 percentage points YoY)
-- We observed that price adjustments in this segment helped improve profitability despite currency challenges. While Display Technologies may not be the most significant factor impacting overall gross margin.
+- We observed that price adjustments in this Display Technologies helped improve profitability despite currency challenges. While the segement may not be the most significant factor impacting overall gross margin.
 
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/bcd96726-d70d-4e6d-9466-4af870f9ed6d" />
 
