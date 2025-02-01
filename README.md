@@ -10,6 +10,8 @@ This report provides key insights from Corning's Q3 2024 financial statements, f
 - **Total Net Sales:** +7% YoY, reaching **$3,391M** (Q3 2023: $3,173M)
 - **Optical Communications Revenue:** +36%, now **$1,246M** (driven by generative AI applications)
 
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/c3618631-560a-4c9e-acfe-9747af956b2b" />
+
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/2642e2f2-b1fd-4f3d-92ff-5517a9245464" />
 
 ### Key Insights
